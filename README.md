@@ -1,47 +1,76 @@
-# 👋 Hi there, I'm Avinash Kaja!
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=250&section=header&text=Avinash%20Kaja&fontSize=50&fontColor=ffffff&fontAlignY=40" alt="banner" />
+</p>
 
-Welcome to my GitHub profile! I'm a passionate and detail-oriented **Software Developer** with a strong focus on **Java Full Stack Development** and **Software Testing**. I believe in writing clean, maintainable code and building robust, scalable applications.
+<p align="center">
+  🚀 Java Full Stack Developer | 🧪 Software Tester | 💻 Tech Enthusiast  
+</p>
 
 ---
 
-## 💼 My Core Skills
+## 🙋‍♂️ About Me
 
-### 🧑‍💻 Java Full Stack Development
-- 💡 Proficient in **Java**, **Spring Boot**, and **Hibernate**
-- 🌐 Frontend skills using **HTML** and **CSS**
-- 🔗 Strong understanding of **RESTful APIs** and **Microservices Architecture**
-- 💾 Database experience with **MySQL** and **PostgreSQL**
+I'm **Avinash Kaja**, a passionate **Java Full Stack Developer** and **Software Tester**. I love building robust backends, crafting clean frontends, and ensuring software quality through meticulous testing.
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 💻 Java Full Stack Development
+- Java, Spring Boot, Hibernate
+- HTML, CSS
+- REST APIs, Microservices
+- MySQL, PostgreSQL
 
 ### 🧪 Software Testing
-- ✅ Hands-on with both **Manual Testing** and **Automated Testing**
-- 🧪 Proficient in **Selenium**, **JUnit**, **TestNG**
-- 🧪 Skilled in **Postman** (API testing), **JMeter** (Performance testing), **Katalon Studio**, and **Appium** (Mobile automation)
-- 📈 Experience with **CI/CD pipelines** using **Jenkins** and **GitHub Actions**
-- 🎯 Able to write comprehensive test plans, test cases, and detailed bug reports
-- 🧹 Strong in debugging, regression testing, and performance testing
+- Manual & Automated Testing
+- Selenium, JUnit, TestNG
+- Postman (API Testing), JMeter (Performance Testing)
+- Katalon Studio, Appium (Mobile Testing)
+- CI/CD: Jenkins, GitHub Actions
+
+### ⚙️ Tools
+- IntelliJ IDEA, Eclipse, VS Code
+- Maven, Gradle
+- Git, GitHub
+- Docker
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=avinashkaja&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avinashkaja&theme=radical" alt="GitHub Streak" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashkaja&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-## 🚀 Tools & Technologies
-- 🛠️ IDEs: IntelliJ IDEA, Eclipse, VS Code
-- 🔧 Build Tools: Maven, Gradle
-- 📊 Version Control: Git, GitHub
-- 🐳 Containerization: Docker
+## 📂 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🚧 *Coming Soon* | Stay tuned for real-world full stack and automation testing projects! | Java, Selenium, Postman |
 
 ---
 
-## 📈 What You’ll Find Here
-On this GitHub profile, you'll discover:
-- 🔍 Real-world projects showcasing Java full-stack solutions
-- 🧪 Sample test automation frameworks
-- 💻 Contributions to collaborative repositories
-- 🧠 Code samples that reflect best practices in both testing and development
+## 📬 Connect with Me
+
+<p align="center">
+  <a href="mailto:kajaavinash2002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/avinash-kaja-94996224b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 📬 Let's Connect!
-Feel free to reach out if you'd like to collaborate, have questions, or just want to talk tech!
-- 💼 [LinkedIn](https://www.linkedin.com/in/avinash-kaja-94996224b/)
-- 📧 kajaavinash2002@gmail.com
-
-Thanks for visiting! 👨‍💻✨
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer"/>
+</p>
