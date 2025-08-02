@@ -32,7 +32,7 @@ I'm **Avinash Kaja**, a passionate **Java Full Stack Developer** and **Software 
 
 ### ⚙️ Tools
 - IntelliJ IDEA, Eclipse, VS Code
-- Maven, Gradle
+- Maven 
 - Git, GitHub
 - Docker
 ---
